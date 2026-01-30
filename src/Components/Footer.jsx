@@ -59,7 +59,7 @@ const Footer = () => {
   return (
     <footer
       ref={sectionRef}
-      className="bg-gradient-to-br from-[#FF6B6B] to-[#FF5252] py-8 sm:py-10 lg:py-12 px-4 sm:px-6 lg:px-8 rounded-2xl sm:rounded-3xl m-4 sm:m-6 lg:m-8 relative overflow-visible"
+      className="bg-linear-to-br from-[#FF6B6B] to-[#FF5252] py-8 sm:py-10 lg:py-12 px-4 sm:px-6 lg:px-8 rounded-2xl sm:rounded-3xl m-4 sm:m-6 lg:m-8 relative overflow-visible"
     >
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8 items-center">

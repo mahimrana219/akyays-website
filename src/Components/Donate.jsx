@@ -101,7 +101,7 @@ const Donate = () => {
     <div className="px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
       <section
         ref={sectionRef}
-        className="bg-gradient-to-br from-[#FF6B6B] to-[#FF5252] flex items-center py-12 sm:py-16 lg:py-20 px-6 sm:px-8 lg:px-12 overflow-hidden rounded-3xl sm:rounded-4xl"
+        className="bg-linear-to-br from-[#FF6B6B] to-[#FF5252] flex items-center py-12 sm:py-16 lg:py-20 px-6 sm:px-8 lg:px-12 overflow-hidden rounded-3xl sm:rounded-4xl"
       >
         <div className="max-w-7xl mx-auto w-full">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">

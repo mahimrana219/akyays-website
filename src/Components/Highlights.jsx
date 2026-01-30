@@ -133,7 +133,7 @@ const Highlights = () => {
                   className="bg-gray-50 rounded-xl p-5 sm:p-6 hover:shadow-lg hover:bg-gray-100 transition-all duration-300"
                 >
                   <div className="flex items-start gap-4">
-                    <span className="text-3xl sm:text-4xl flex-shrink-0">{feature.icon}</span>
+                    <span className="text-3xl sm:text-4xl shrink-0">{feature.icon}</span>
                     <div>
                       <h3 className="text-lg sm:text-xl font-bold text-gray-900 mb-2">
                         {feature.title}

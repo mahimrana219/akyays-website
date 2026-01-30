@@ -60,7 +60,7 @@ const Hero = () => {
   return (
     <section
       ref={containerRef}
-      className="min-h-screen bg-gradient-to-br from-[#FF6B6B] to-[#FF5252] flex flex-col"
+      className="min-h-screen bg-linear-to-br from-[#FF6B6B] to-[#FF5252] flex flex-col"
     >
       {/* Logo with Text - Centered at Top */}
       <div ref={logoRef} className="pt-6 sm:pt-8 px-4 sm:px-6 lg:px-8">
